@@ -34,14 +34,14 @@ Criar um layout elegante e intuitivo
 Melhorar a usabilidade com animações leves e responsividade
 
 🖥️ Pré-visualização
+
+<img width="303" height="428" alt="image" src="https://github.com/user-attachments/assets/8ddefcd7-d098-4114-96c0-2140ddd2762b" />
+
+
+
+
 Você pode visualizar e testar a calculadora diretamente em seu navegador. Basta abrir o arquivo index.html.
 
-📂 Estrutura do Projeto
-│
-├── index.html        # Estrutura da calculadora
-├── styles.css        # Estilização visual da interface
-├── script.js         # Lógica de funcionamento (JS)
-└── favicon.png       # Ícone da página (opcional)
 🚀 Como Utilizar
 Clone o repositório:
 
