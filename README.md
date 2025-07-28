@@ -46,7 +46,11 @@ Você pode visualizar e testar a calculadora diretamente em seu navegador. Basta
 Clone o repositório:
 
 git clone https://github.com/seu-usuario/calc-web.git
+
+
 Acesse a pasta do projeto:
 
 cd calc-web
+
+
 Abra o arquivo index.html no seu navegador preferido.
