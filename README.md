@@ -45,7 +45,7 @@ Você pode visualizar e testar a calculadora diretamente em seu navegador. Basta
 🚀 Como Utilizar
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/calc-web.git
+git clone https://github.com/kauanfeelipe/projeto_calculadora.git
 
 
 Acesse a pasta do projeto:
